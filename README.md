@@ -3,7 +3,17 @@
 # This project is a college management system. It is intended to be used by college administrators and staff to manage college resources, communications, and activities.
 The system will enable administrators and staff to perform a variety of tasks such as:
 
-Tracking and managing student information -Managing course offerings and course schedules -Managing faculty information - Tracking and managing student grades -Managing and tracking student attendance -Managing and tracking student financial aid -Managing and tracking student housing -Managing and tracking student activities -Managing and tracking college events -Managing and tracking college resources -Managing communications between students, faculty, and staff The system will also enable administrators and staff to generate reports and analytics.
+Tracking and managing student information 
+-Managing course offerings and course schedules 
+-Managing faculty information 
+-Tracking and managing student grades 
+-Managing and tracking student attendance 
+-Managing and tracking student financial aid 
+-Managing and tracking student housing 
+-Managing and tracking student activities
+-Managing and tracking college events 
+-Managing and tracking college resources
+-Managing communications between students, faculty, and staff The system will also enable administrators and staff to generate reports and analytics.
 # How to run
 # 1. Prerequisites
 Before you start, make sure you have the following installed on your system:
